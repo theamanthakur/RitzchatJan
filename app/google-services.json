@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "345640273359",
+    "firebase_url": "https://ritz7-9c6ce-default-rtdb.firebaseio.com",
+    "project_id": "ritz7-9c6ce",
+    "storage_bucket": "ritz7-9c6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345640273359:android:80d4c7a60656e451fdfeba",
+        "android_client_info": {
+          "package_name": "com.ttl.ritz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345640273359-v8dflta8pjbpvoq44faiadvip3nasboe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfxdS1d1qjmwm7lOM0iNaFAx6o4obU9WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345640273359-v8dflta8pjbpvoq44faiadvip3nasboe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345640273359:android:7679246667678ed8fdfeba",
+        "android_client_info": {
+          "package_name": "com.ttl.ritz7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345640273359-v8dflta8pjbpvoq44faiadvip3nasboe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfxdS1d1qjmwm7lOM0iNaFAx6o4obU9WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345640273359-v8dflta8pjbpvoq44faiadvip3nasboe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345640273359:android:36bfad994ededee9fdfeba",
+        "android_client_info": {
+          "package_name": "com.ttl.ritz7chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345640273359-v8dflta8pjbpvoq44faiadvip3nasboe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfxdS1d1qjmwm7lOM0iNaFAx6o4obU9WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345640273359-v8dflta8pjbpvoq44faiadvip3nasboe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
